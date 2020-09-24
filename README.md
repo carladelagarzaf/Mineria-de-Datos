@@ -1,4 +1,6 @@
 # Mineria-de-Datos
+#### Semestre agosto 2020 - enero 2021
+#### Carla Mayela De la Garza Fernandez 1729734
 
 ------------------------
 
