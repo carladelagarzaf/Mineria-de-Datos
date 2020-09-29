@@ -14,6 +14,6 @@
 
 [Ejercicio de Ejemplo K-Means Presentacion](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/ejemplo_kmeans_equipo2.ipynb)
 
-[Ejercicio 1 en formato **ipynb**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.ipynb)
+[Ejercicios 1 en formato **ipynb**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.ipynb)
 
-[Ejercicio 1 en formato **pdf**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.pdf)
+[Ejercicios 1 en formato **pdf**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.pdf)
