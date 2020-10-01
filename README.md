@@ -17,3 +17,5 @@
 [Ejercicios 1 en formato **ipynb**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.ipynb)
 
 [Ejercicios 1 en formato **pdf**](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.pdf)
+
+[Mapa Mental II](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/MapaMental_2_1729734.pdf)
