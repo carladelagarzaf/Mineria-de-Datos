@@ -22,4 +22,4 @@
 
 [Resumenes](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Resumenes_1729734.pdf)
 
-[Base de Datos](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/AnalisisBD_1729734.pdf)
+[Análisis Base de Datos](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/AnalisisBD_1729734.pdf)
