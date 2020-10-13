@@ -21,3 +21,5 @@
 [Mapa Mental II](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/MapaMental_2_1729734.pdf)
 
 [Resumenes](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Resumenes_1729734.pdf)
+
+[Base de Datos](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/AnalisisBD_1729734.pdf)
