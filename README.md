@@ -22,4 +22,9 @@
 
 [Resumenes](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Resumenes_1729734.pdf)
 
+-----------------------
+
+## Fase II
+
 [Análisis Base de Datos](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/AnalisisBD_1729734.pdf)
+[Python Basico](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/PythonBasico_1729734.ipynb)
