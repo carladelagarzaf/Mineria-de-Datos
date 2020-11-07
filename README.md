@@ -32,4 +32,4 @@
 
 [Avance 1 PIA](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Avance1-PIA_3_012.pdf)
 
-[Ejercicios de Python](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20Datos.ipynb)
+[Ejercicios de Python](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20Datos_3_012.ipynb)
