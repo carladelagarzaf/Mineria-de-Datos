@@ -9,7 +9,7 @@ Autor: Yamaç Eren Ay
 
 # Notebooks de los Sistemas de Recomendación
 - [Sistemas de Recomendación de Artistas](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Proyecto%20Final/Sistema_Recomendacion_Artistas.ipynb)
-- [Sistemas de Recomendación de Canciones](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Proyecto%20Final/Sistema_Recomendacion_Canciones.ipynb
+- [Sistemas de Recomendación de Canciones](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Proyecto%20Final/Sistema_Recomendacion_Canciones.ipynb)
 
 # Librerias Utilizadas
 - Pandas
