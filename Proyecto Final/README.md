@@ -1,5 +1,7 @@
 ![Music4U](Music4U_logo.png)
 
+# [Poster](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Proyecto%20Final/PIA_3_12.pdf)
+
 # Base de Datos
 [Spotify Dataset 1921-2020, 160k+ Tracks](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
